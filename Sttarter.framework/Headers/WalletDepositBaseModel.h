@@ -6,7 +6,7 @@
 //  Copyright © 2017 Spurtree. All rights reserved.
 //
 
-#import <JSONModel/JSONModel.h>
+#import "JSONModel.h"
 #import "WalletDeposit.h"
 @protocol WalletDepositBaseModel @end
 @interface WalletDepositBaseModel : JSONModel

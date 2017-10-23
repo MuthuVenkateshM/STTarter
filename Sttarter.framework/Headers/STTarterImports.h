@@ -17,7 +17,8 @@ FOUNDATION_EXPORT const unsigned char SttarterVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <Sttarter/PublicHeader.h>
 
 
-
+#import <Sttarter/JSONModelLib.h>
+#import <Sttarter/AFNetworking.h>
 #import <Sttarter/DatabaseHandler.h>
 #import <Sttarter/DownloadManager.h>
 #import <Sttarter/DownloadManagerAdditions.h>
@@ -37,7 +38,8 @@ FOUNDATION_EXPORT const unsigned char SttarterVersionString[];
 #import <Sttarter/ReferrelSignupModel.h>
 #import <Sttarter/ChangeRefModel.h>
 #import <Sttarter/TrackUsageModel.h>
-#import <STTarter/STTarterManager.h>
+#import <Sttarter/STTarterManager.h>
+#import <Sttarter/MQTTClient.h>
 #import <Sttarter/CouponManager.h>
 #import <Sttarter/CouponModel.h>
 #import <Sttarter/STTaterCommunicator.h>
@@ -51,25 +53,24 @@ FOUNDATION_EXPORT const unsigned char SttarterVersionString[];
 #import <Sttarter/CreateWalletBaseModel.h>
 #import <Sttarter/WalletManager.h>
 #import <Sttarter/TopicMessage.h>
+#import <Sttarter/Reachability.h>
 #import <Sttarter/MQTT_QueueModel.h>
+#import <Sttarter/Reachability.h>
 #import <Sttarter/MessageStatusModel.h>
 #import <Sttarter/TopicMessage.h>
 #import <Sttarter/TopicMessageDetail.h>
 #import <Sttarter/transactedByModel.h>
 #import <Sttarter/TransactionsWalletModel.h>
 
-#import <JSONModel/JSONModelLib.h>
-#import <JSONModel/JSONModel.h>
-#import <AFNetworking/AFNetworking.h>
-#import <MQTTClient/MQTTClient.h>
-#import "MQTTClient/MQTTSession.h"
-#import "MQTTClient/MQTTSessionLegacy.h"
-#import "MQTTClient/MQTTSessionSynchron.h"
-#import "MQTTClient/MQTTMessage.h"
-#import "MQTTClient/MQTTTransport.h"
-#import "MQTTClient/MQTTCFSocketTransport.h"
-#import "MQTTClient/MQTTCoreDataPersistence.h"
-#import <MQTTClient/MQTTSSLSecurityPolicyTransport.h>
+#import "Sttarter/MQTTSession.h"
+#import "Sttarter/MQTTSessionLegacy.h"
+#import "Sttarter/MQTTSessionSynchron.h"
+#import "Sttarter/MQTTMessage.h"
+#import "Sttarter/MQTTTransport.h"
+#import "Sttarter/MQTTCFSocketTransport.h"
+#import "Sttarter/MQTTCoreDataPersistence.h"
+#import <Sttarter/MQTTSSLSecurityPolicyTransport.h>
+
 
 
 

@@ -6,7 +6,7 @@
 //  Copyright © 2017 Spurtree. All rights reserved.
 //
 
-#import <JSONModel/JSONModel.h>
+#import "JSONModel.h"
 @protocol TransferFundModel @end
 @interface TransferFundModel : JSONModel
 @property(nonatomic,strong)NSString *remaining_balance;
