@@ -124,7 +124,7 @@ Pod::Spec.new do |s|
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
   # s.library   = "iconv"
-  # s.libraries = "MQTTClient", "JSONModel", "Reachability"
+  s.libraries = "Pods-Sttarter", "MQTTClient", "Reachability", "JSONModel"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
