@@ -6,7 +6,7 @@
 //  Copyright © 2016 Spurtree Technologies. All rights reserved.
 //
 
-#import "JSONModel.h"
+#import <JSONModel/JSONModel.h>
 #import "MessagesModel.h"
 
 @interface BuzzMessagesModel : JSONModel

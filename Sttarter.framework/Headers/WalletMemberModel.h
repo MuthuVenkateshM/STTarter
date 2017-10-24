@@ -6,7 +6,7 @@
 //  Copyright © 2017 Spurtree. All rights reserved.
 //
 
-#import "JSONModel.h"
+#import <JSONModel/JSONModel.h>
 @protocol WalletMemberModel @end
 @interface WalletMemberModel : JSONModel
 //@property (nonatomic, strong) NSString *email;

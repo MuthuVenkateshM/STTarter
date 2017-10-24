@@ -10,7 +10,7 @@
 #import "DownloadManager.h"
 #import "GetOtpModel.h"
 #import "OtpLoginModel.h"
-#import "JSONModel.h"
+#import <JSONModel/JSONModel.h>
 #import "TopicsModel.h"
 #import "AuthModel.h"
 #import "SignUpModel.h"
@@ -18,13 +18,6 @@
 #import "Referrals.h"
 #import "DatabaseHandler.h"
 
-//typedef NS_ENUM(NSUInteger, AuthType){
-//    STTARTER_ACCOUNT_AUTH=0,//user name,pass
-//    STTARTER_OTP_AUTH,//
-//    STTARTER_CUSTOM_AUTH//external user id
-//};
-
-//#import "UIWebView+AFNetworking.h"
 @protocol STTarterDelegate <NSObject>
 
 @optional

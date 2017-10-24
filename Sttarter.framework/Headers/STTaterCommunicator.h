@@ -8,10 +8,10 @@
 
 #import <Foundation/Foundation.h>
 #import "DownloadManager.h"
-#import "JSONModel.h"
-#import "MQTTClient.h"
+#import <JSONModel/JSONModel.h>
+#import <MQTTClient/MQTTClient.h>
+#import <MQTTClient/MQTTSessionManager.h>
 #import "TopicsModel.h"
-#import "MQTTSessionManager.h"
 #import "GetMessagesModel.h"
 #import "NSString+MD5.h"
 
@@ -67,12 +67,8 @@ typedef void (^addMembersToGroupBlock)(BOOL isSuccess,NSString *status);
 - (NSMutableArray*)getAllMyTopics;
 - (void)SttarterClassPublishTopic:(NSString*)strTopic messagehash:(NSString*)strHash strData:(NSDictionary*)dctMessage;//group
 
-//- (void)SendMessageToUserId:(NSString*)strUserId withMessage:(NSString*)strMessage;// single id
-//- (void)SendMessageToGroupWithTopic:(NSString*)strTopic withMessage:(NSString*)strMessage;// group id
-- (void)SendMessageToTopic:(NSString*)strTopic withMessage:(NSString*)strMessage andType:(NSString*)strType;
-
-
-
+- (void)SendMessageToUserId:(NSString*)strUserId withMessage:(NSString*)strMessage;// single id
+- (void)SendMessageToGroupWithTopic:(NSString*)strTopic withMessage:(NSString*)strMessage;// single id
 -(void)getMessagesForTopic:(NSString*)strTopic;
 
 - (void)logoutUser;

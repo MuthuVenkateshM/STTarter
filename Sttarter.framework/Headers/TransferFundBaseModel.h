@@ -6,7 +6,7 @@
 //  Copyright © 2017 Spurtree. All rights reserved.
 //
 
-#import "JSONModel.h"
+#import <JSONModel/JSONModel.h>
 #import "TransferFundModel.h"
 @interface TransferFundBaseModel : JSONModel
 @property(nonatomic,strong)NSString *status;

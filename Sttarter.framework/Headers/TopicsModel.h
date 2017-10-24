@@ -6,7 +6,7 @@
 //  Copyright © 2016 Spurtree Technologies. All rights reserved.
 //
 #import <Foundation/Foundation.h>
-#import "JSONModel.h"
+#import <JSONModel/JSONModel.h>
 #import "InteractedWithModel.h"
 #import "Topic_GroupMembers.h"
 

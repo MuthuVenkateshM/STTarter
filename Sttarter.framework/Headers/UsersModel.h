@@ -6,7 +6,7 @@
 //  Copyright © 2016 Spurtree. All rights reserved.
 //
 
-#import "JSONModel.h"
+#import <JSONModel/JSONModel.h>
 
 @protocol  UsersModel @end
 @interface UsersModel : JSONModel

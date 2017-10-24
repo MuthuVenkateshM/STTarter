@@ -7,7 +7,7 @@
 //
 
 //#import <Sttarter/Sttarter.h>
-#import "JSONModel.h"
+#import <JSONModel/JSONModel.h>
 
 @protocol  ReferrelSignupModel @end
 @interface ReferrelSignupModel : JSONModel

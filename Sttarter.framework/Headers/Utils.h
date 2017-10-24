@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "Reachability.h"
+#import <Reachability/Reachability.h>
 
 @interface Utils : NSObject
 

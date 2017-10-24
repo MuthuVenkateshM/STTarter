@@ -40,10 +40,10 @@
 -(NSArray *)getAllMessages;
 
 //Delete
-//-(void)deleteAllMessages;/////
-//-(void)deleteAllTopics;
-//-(void)deleteAllMQTTQueuedData;
--(void)clearDataBase;
+-(void)deleteAllMessages;/////
+-(void)deleteAllTopics;
+-(void)deleteAllMQTTQueuedData;
+
 
 -(void)updateIsReadInMessagesDb:(NSString*)strTopic isRead:(NSString*)isRead;
 //-(void)updateIsReadInTopicDb:(NSString*)strTopic unreadMessageCount:(NSString*)count;

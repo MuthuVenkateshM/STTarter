@@ -7,9 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "JSONModel.h"
+#import <JSONModel/JSONModel.h>
 #import "PermittedModulesModel.h"
-
 
 @interface AuthModel : JSONModel
 @property(strong,nonatomic)NSString *token; 

@@ -75,6 +75,7 @@ Pod::Spec.new do |s|
   #   'Reachability' => ['Resources/Reachability/**/*.{h,m}'],
   #   'JSONModel' => ['Resources/JSONModel/**/*.{h,m}']
   #    }
+  s.ios.dependency "AFNetworking", "~> 2.x"
   s.ios.dependencies = "MQTTClient", "Reachability", "JSONModel"
 
 

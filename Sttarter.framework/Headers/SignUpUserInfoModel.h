@@ -8,7 +8,7 @@
 
 
 #import <Foundation/Foundation.h>
-#import "JSONModel.h"
+#import <JSONModel/JSONModel.h>
 
 @protocol SignUpUserInfoModel @end
 
