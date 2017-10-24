@@ -70,11 +70,12 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   s.ios.vendored_frameworks = 'STTarter.framework'
   # s.ios.vendored_libraries = "Libraries/libMQTTClient.a", "Libraries/libReachability.a", "Libraries/libJSONModel.a"
-  s.ios.resource_bundles = { 
-    'MQTTClient' => ['Resources/MQTTClient/**/*.{h,m}'],
-    'Reachability' => ['Resources/Reachability/**/*.{h,m}'],
-    'JSONModel' => ['Resources/JSONModel/**/*.{h,m}']
-     }
+  # s.ios.resource_bundles = { 
+  #   'MQTTClient' => ['Resources/MQTTClient/**/*.{h,m}'],
+  #   'Reachability' => ['Resources/Reachability/**/*.{h,m}'],
+  #   'JSONModel' => ['Resources/JSONModel/**/*.{h,m}']
+  #    }
+  s.ios.dependencies = "MQTTClient", "Reachability", "JSONModel"
 
 
   #  When using multiple platforms
