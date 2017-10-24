@@ -69,6 +69,8 @@ Pod::Spec.new do |s|
   # s.platform     = :ios, "8.0"
   s.ios.deployment_target = '8.0'
   s.ios.vendored_frameworks = 'STTarter.framework'
+  s.ios.vendored_libraries = "Libraries/libMQTTClient.a", "Libraries/libReachability.a", "Libraries/libJSONModel.a"
+
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
@@ -122,7 +124,7 @@ Pod::Spec.new do |s|
 
   # s.framework  = "SomeFramework"
   # s.frameworks = "SomeFramework", "AnotherFramework"
-  s.weak_frameworks = "JSONModel", "MQTTClient", "Reachability"
+  # s.weak_frameworks = "JSONModel.framework", "MQTTClient.framework", "Reachability.framework"
 
   # s.library   = "iconv"
   # s.libraries = "Pods-Sttarter", "MQTTClient", "Reachability", "JSONModel"
