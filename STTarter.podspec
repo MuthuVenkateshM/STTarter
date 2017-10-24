@@ -124,7 +124,7 @@ Pod::Spec.new do |s|
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
   # s.library   = "iconv"
-  s.libraries = "Pods-Sttarter", "MQTTClient", "Reachability", "JSONModel"
+  # s.libraries = "Pods-Sttarter", "MQTTClient", "Reachability", "JSONModel"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -136,5 +136,10 @@ Pod::Spec.new do |s|
   # s.requires_arc = true
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
+  s.ios.dependency 'STTarter/Libraries'
+
+  s.subspec 'STTarter' do |ss|
+    ss.source_files = 'STTarter/Libraries/**/*.{h,m}'
+  end
 
 end
