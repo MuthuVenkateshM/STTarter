@@ -7,7 +7,7 @@
 //
 
 //#import <Sttarter/Sttarter.h>
-#import <JSONModel/JSONModel.h>
+#import "JSONModel.h"
 
 @protocol  GetRefCodeModel @end
 

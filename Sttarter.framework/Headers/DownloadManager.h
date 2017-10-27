@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "DownloadManagerAdditions.h"
 #import "DownloadManagerConstants.h"
-#import <AFNetworking/AFNetworking.h>
+#import "AFNetworking.h"
 #import "GetOtpModel.h"
 #import "OtpLoginModel.h"
 #import "BuzzMessagesModel.h"

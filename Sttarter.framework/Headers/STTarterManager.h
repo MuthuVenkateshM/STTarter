@@ -10,7 +10,7 @@
 #import "DownloadManager.h"
 #import "GetOtpModel.h"
 #import "OtpLoginModel.h"
-#import <JSONModel/JSONModel.h>
+#import "JSONModel.h"
 #import "TopicsModel.h"
 #import "AuthModel.h"
 #import "SignUpModel.h"

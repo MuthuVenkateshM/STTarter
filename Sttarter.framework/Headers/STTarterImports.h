@@ -14,62 +14,61 @@ FOUNDATION_EXPORT double SttarterVersionNumber;
 //! Project version string for Sttarter.
 FOUNDATION_EXPORT const unsigned char SttarterVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <Sttarter/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import "PublicHeader.h>
 
 
+#import "DatabaseHandler.h"
+#import "DownloadManager.h"
+#import "DownloadManagerAdditions.h"
+#import "DownloadManagerConstants.h"
+#import "GetOtpModel.h"
+#import "OtpLoginModel.h"
+#import "BuzzMessagesModel.h"
+#import "GetRefCodeModel.h"
+#import "GetOtpModel.h"
+#import "OtpLoginModel.h"
+#import "MyTopicsModel.h"
+#import "BuzzMessagesModel.h"
+#import "AuthModel.h"
+#import "LoginModel.h"
+#import "SignUpModel.h"
+#import "GetRefCodeModel.h"
+#import "ReferrelSignupModel.h"
+#import "ChangeRefModel.h"
+#import "TrackUsageModel.h"
+#import "STTarterManager.h"
+#import "CouponManager.h"
+#import "CouponModel.h"
+#import "STTaterCommunicator.h"
+#import "TrackUsageModel.h"
+#import "UsersModel.h"
+#import "STTarterContentSystem.h"
+#import "STTarterReferrals.h"
+#import "Topics+CoreDataClass.h"
+#import "STTaterCommunicator.h"
+#import "CreateWalletModel.h"
+#import "CreateWalletBaseModel.h"
+#import "WalletManager.h"
+#import "TopicMessage.h"
+#import "MQTT_QueueModel.h"
+#import "MessageStatusModel.h"
+#import "TopicMessage.h"
+#import "TopicMessageDetail.h"
+#import "transactedByModel.h"
+#import "TransactionsWalletModel.h"
 
-#import <Sttarter/DatabaseHandler.h>
-#import <Sttarter/DownloadManager.h>
-#import <Sttarter/DownloadManagerAdditions.h>
-#import <Sttarter/DownloadManagerConstants.h>
-#import <Sttarter/GetOtpModel.h>
-#import <Sttarter/OtpLoginModel.h>
-#import <Sttarter/BuzzMessagesModel.h>
-#import <Sttarter/GetRefCodeModel.h>
-#import <Sttarter/GetOtpModel.h>
-#import <Sttarter/OtpLoginModel.h>
-#import <Sttarter/MyTopicsModel.h>
-#import <Sttarter/BuzzMessagesModel.h>
-#import <Sttarter/AuthModel.h>
-#import <Sttarter/LoginModel.h>
-#import <Sttarter/SignUpModel.h>
-#import <Sttarter/GetRefCodeModel.h>
-#import <Sttarter/ReferrelSignupModel.h>
-#import <Sttarter/ChangeRefModel.h>
-#import <Sttarter/TrackUsageModel.h>
-#import <STTarter/STTarterManager.h>
-#import <Sttarter/CouponManager.h>
-#import <Sttarter/CouponModel.h>
-#import <Sttarter/STTaterCommunicator.h>
-#import <Sttarter/TrackUsageModel.h>
-#import <Sttarter/UsersModel.h>
-#import <Sttarter/STTarterContentSystem.h>
-#import <Sttarter/STTarterReferrals.h>
-#import <Sttarter/Topics+CoreDataClass.h>
-#import <Sttarter/STTaterCommunicator.h>
-#import <Sttarter/CreateWalletModel.h>
-#import <Sttarter/CreateWalletBaseModel.h>
-#import <Sttarter/WalletManager.h>
-#import <Sttarter/TopicMessage.h>
-#import <Sttarter/MQTT_QueueModel.h>
-#import <Sttarter/MessageStatusModel.h>
-#import <Sttarter/TopicMessage.h>
-#import <Sttarter/TopicMessageDetail.h>
-#import <Sttarter/transactedByModel.h>
-#import <Sttarter/TransactionsWalletModel.h>
-
-#import <JSONModel/JSONModelLib.h>
-#import <JSONModel/JSONModel.h>
-#import <AFNetworking/AFNetworking.h>
-#import <MQTTClient/MQTTClient.h>
-#import "MQTTClient/MQTTSession.h"
-#import "MQTTClient/MQTTSessionLegacy.h"
-#import "MQTTClient/MQTTSessionSynchron.h"
-#import "MQTTClient/MQTTMessage.h"
-#import "MQTTClient/MQTTTransport.h"
-#import "MQTTClient/MQTTCFSocketTransport.h"
-#import "MQTTClient/MQTTCoreDataPersistence.h"
-#import <MQTTClient/MQTTSSLSecurityPolicyTransport.h>
+#import "JSONModelLib.h"
+#import "JSONModel.h"
+#import "AFNetworking.h"
+#import "MQTTClient.h"
+#import "MQTTSession.h"
+#import "MQTTSessionLegacy.h"
+#import "MQTTSessionSynchron.h"
+#import "MQTTMessage.h"
+#import "MQTTTransport.h"
+#import "MQTTCFSocketTransport.h"
+#import "MQTTCoreDataPersistence.h"
+#import "MQTTSSLSecurityPolicyTransport.h"
 
 
 

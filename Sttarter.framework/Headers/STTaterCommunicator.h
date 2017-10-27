@@ -8,9 +8,9 @@
 
 #import <Foundation/Foundation.h>
 #import "DownloadManager.h"
-#import <JSONModel/JSONModel.h>
-#import <MQTTClient/MQTTClient.h>
-#import <MQTTClient/MQTTSessionManager.h>
+#import "JSONModel.h"
+#import "MQTTClient.h"
+#import "MQTTSessionManager.h"
 #import "TopicsModel.h"
 #import "GetMessagesModel.h"
 #import "NSString+MD5.h"

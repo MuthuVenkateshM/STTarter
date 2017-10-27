@@ -7,7 +7,7 @@
 //
 
 
-#import <JSONModel/JSONModel.h>
+#import "JSONModel.h"
 @interface WalletDeposit : JSONModel
 @property(nonatomic,strong)NSString *remaining_balance;
 @property(nonatomic,strong)NSString *order_amount;
