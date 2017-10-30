@@ -1,0 +1,4 @@
+framework module Sttarter {
+    header "Sttarter-Swift.h"
+    requires objc
+}

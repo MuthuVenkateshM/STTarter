@@ -16,7 +16,6 @@ FOUNDATION_EXPORT const unsigned char SttarterVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import "PublicHeader.h>
 
-
 #import "DatabaseHandler.h"
 #import "DownloadManager.h"
 #import "DownloadManagerAdditions.h"

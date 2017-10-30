@@ -68,7 +68,7 @@ Pod::Spec.new do |s|
   # s.platform     = :ios
   # s.platform     = :ios, "8.0"
   s.ios.deployment_target = '8.0'
-  s.ios.vendored_frameworks = 'STTarter.framework'
+  # s.ios.vendored_frameworks = 'STTarter.framework'
   # s.ios.vendored_libraries = "Libraries/libMQTTClient.a", "Libraries/libReachability.a", "Libraries/libJSONModel.a"
   # s.ios.resource_bundles = { 
   #   'MQTTClient' => ['Resources/MQTTClient/**/*.{h,m}'],
@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/MuthuVenkateshM/STTarter.git", :branch => "master" }
+  s.source       = { :git => 'https://github.com/MuthuVenkateshM/STTarter.git', :branch => 'master' }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -144,11 +144,11 @@ Pod::Spec.new do |s|
 
   # s.requires_arc = true
 
-  s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(PODS_ROOT)/STTarter/Sttarter.framework/Headers/" }
+  # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(PODS_ROOT)/STTarter/Sttarter.framework/Headers/" }
   # s.ios.dependency 'STTarter/Libraries'
 
-  # s.subspec 'STTarter' do |ss|
-    # s.source_files = 'STTarter/Libraries/**/*.{h,m}'
-  # end
+  s.subspec 'Binary' do |binary|
+    binary.vendored_frameworks = '**/Sttarter.framework'
+  end
 
 end
