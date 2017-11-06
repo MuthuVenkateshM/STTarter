@@ -131,7 +131,7 @@ Pod::Spec.new do |s|
   # s.framework  = "SomeFramework"
   # s.frameworks = "SomeFramework", "AnotherFramework"
   # s.weak_frameworks = "JSONModel.framework", "MQTTClient.framework", "Reachability.framework"
-  s.vendored_frameworks = '**/Sttarter.framework'
+  s.vendored_frameworks = 'Sttarter.framework'
   # s.library   = "iconv"
   # s.libraries = "Pods-Sttarter", "MQTTClient", "Reachability", "JSONModel"
 
