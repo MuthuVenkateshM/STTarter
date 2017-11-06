@@ -188,7 +188,7 @@ SWIFT_MODULE_NAMESPACE_PUSH("Sttarter")
 
 SWIFT_CLASS("_TtC8Sttarter14RequestHandler")
 @interface RequestHandler : NSObject
-@property (nonatomic, readonly, strong) CouponManager * _Nonnull coupon;
+@property (nonatomic, strong) CouponManager * _Null_unspecified coupon;
 - (nonnull instancetype)initWithCoupon:(CouponManager * _Nonnull)coupon OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 @end
