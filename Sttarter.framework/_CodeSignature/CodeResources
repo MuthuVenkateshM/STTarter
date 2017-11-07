@@ -96,6 +96,10 @@
 		<data>
 		LnxRzCANYIfPXBuLVTM3Je+lsqU=
 		</data>
+		<key>Headers/Sttarter-Swift.h</key>
+		<data>
+		7YT+dGTbqA9ZfWH4+M7+Kspq+vU=
+		</data>
 		<key>Headers/Utils.h</key>
 		<data>
 		Fnj/viTaDpzvnLTnmGoaES4HZy0=
@@ -107,6 +111,26 @@
 		<key>Info.plist</key>
 		<data>
 		pyYALB522oYuoQbPUtlBRGrAH+M=
+		</data>
+		<key>Modules/Sttarter.swiftmodule/i386.swiftdoc</key>
+		<data>
+		PzZflsa90dfRIRFzC8pI1VnIdcE=
+		</data>
+		<key>Modules/Sttarter.swiftmodule/i386.swiftmodule</key>
+		<data>
+		cqCfN87CBUEhwBQ9qQFuEWcfPYg=
+		</data>
+		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		wbGZ5TMsQUBr8TaIQsFwoy99AaE=
+		</data>
+		<key>Modules/Sttarter.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		n2KwiCf5mzgTYXG8Mna0DX1BQ8I=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		AZIRnZM8wVEQqhcXGYeGUtaYbJY=
 		</data>
 		<key>Sttarter.momd/Sttarter.mom</key>
 		<data>
@@ -380,6 +404,17 @@
 			Y5dLR86k7UFKjNbu/hNXNXAnXQNk+sVAhE09/ul284c=
 			</data>
 		</dict>
+		<key>Headers/Sttarter-Swift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7YT+dGTbqA9ZfWH4+M7+Kspq+vU=
+			</data>
+			<key>hash2</key>
+			<data>
+			iHp496mKuDsjaNz+TSXWIeRaQo3Ypvjq9bM3L2cCGhk=
+			</data>
+		</dict>
 		<key>Headers/Utils.h</key>
 		<dict>
 			<key>hash</key>
@@ -400,6 +435,61 @@
 			<key>hash2</key>
 			<data>
 			PIO6N8Oj77oc3XgUIG+0HQAEaommSWU9NSZszdD69oY=
+			</data>
+		</dict>
+		<key>Modules/Sttarter.swiftmodule/i386.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PzZflsa90dfRIRFzC8pI1VnIdcE=
+			</data>
+			<key>hash2</key>
+			<data>
+			aSIqoLXW2x7HWWeBgz8vmGis626tPxeRVGoJM9DfBjg=
+			</data>
+		</dict>
+		<key>Modules/Sttarter.swiftmodule/i386.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cqCfN87CBUEhwBQ9qQFuEWcfPYg=
+			</data>
+			<key>hash2</key>
+			<data>
+			vzmqhxoA764qej7SuWXuOCpX6VEOqpFY5rpDrsnbwZM=
+			</data>
+		</dict>
+		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wbGZ5TMsQUBr8TaIQsFwoy99AaE=
+			</data>
+			<key>hash2</key>
+			<data>
+			fIedlyu7zrZLvVkfxSKMlBmdEgap/ygbRhHClD6etoc=
+			</data>
+		</dict>
+		<key>Modules/Sttarter.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n2KwiCf5mzgTYXG8Mna0DX1BQ8I=
+			</data>
+			<key>hash2</key>
+			<data>
+			C+kA1NDjJ5W19HGihxH71ehAsTJsh4lYGAv0Ib+zi4Q=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AZIRnZM8wVEQqhcXGYeGUtaYbJY=
+			</data>
+			<key>hash2</key>
+			<data>
+			me14jufbnxLJXLXnjtqe8TEqp6h12Yg87dB/DiZdDnE=
 			</data>
 		</dict>
 		<key>Sttarter.momd/Sttarter.mom</key>
