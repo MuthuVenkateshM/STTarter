@@ -96,6 +96,10 @@
 		<data>
 		LnxRzCANYIfPXBuLVTM3Je+lsqU=
 		</data>
+		<key>Headers/Sttarter-Bridging-Header.h</key>
+		<data>
+		e1uSiV9LBlWnr0B3/CVHPrQ3gDY=
+		</data>
 		<key>Headers/Sttarter-Swift.h</key>
 		<data>
 		7YT+dGTbqA9ZfWH4+M7+Kspq+vU=
@@ -402,6 +406,17 @@
 			<key>hash2</key>
 			<data>
 			Y5dLR86k7UFKjNbu/hNXNXAnXQNk+sVAhE09/ul284c=
+			</data>
+		</dict>
+		<key>Headers/Sttarter-Bridging-Header.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e1uSiV9LBlWnr0B3/CVHPrQ3gDY=
+			</data>
+			<key>hash2</key>
+			<data>
+			AEVDx/KUqQRBZMK7JihCk3fIhCgoWJlzCflU4r8cRoM=
 			</data>
 		</dict>
 		<key>Headers/Sttarter-Swift.h</key>
