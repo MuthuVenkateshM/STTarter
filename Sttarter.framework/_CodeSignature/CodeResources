@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		6PbahegYdD+RTbqIU7cgaGNByCE=
-		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
 		lGYh5wdaf40xXlzlDGPSSHqFaVE=
@@ -122,7 +118,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/i386.swiftmodule</key>
 		<data>
-		cII/QeSax22/UIwRZQWqJ7NKJ4g=
+		vLeZScwruo/Z1/+x7tlZPZmNB/g=
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -130,7 +126,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		uKsAISEnZ8aKAVg9h1LPnJbMf+A=
+		ftlA5DQTVbk+egQfZc9Z1irWiyo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -259,10 +255,6 @@
 		<key>PrivateHeaders/SignUpUserInfoModel.h</key>
 		<data>
 		JLGwR9/AQ9j57T44HCSqg0CbGf8=
-		</data>
-		<key>PrivateHeaders/Sttarter-Bridging-Header.h</key>
-		<data>
-		plaNNdXsHYVxKNBrV97cbEL56rQ=
 		</data>
 		<key>PrivateHeaders/SubwalletModel.h</key>
 		<data>
@@ -700,11 +692,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cII/QeSax22/UIwRZQWqJ7NKJ4g=
+			vLeZScwruo/Z1/+x7tlZPZmNB/g=
 			</data>
 			<key>hash2</key>
 			<data>
-			e5dUXdUmNn1kg2M/rRZbqj+BzXcQmGuCTWtY057QWog=
+			YJxIPEYIpYDl5CkHSiK+T9AEWXH6Y/599VW/Lq2MLKE=
 			</data>
 		</dict>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
@@ -722,11 +714,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uKsAISEnZ8aKAVg9h1LPnJbMf+A=
+			ftlA5DQTVbk+egQfZc9Z1irWiyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			K8f9IaWwsaUqqlhdtG8wXMEm9HOBBWZXwS/UjhHplN8=
+			Vje4ZS2ZFIeykUBWDQLJEPtluAfOJGWJG9TCFdvh0OE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1079,17 +1071,6 @@
 			<key>hash2</key>
 			<data>
 			3VYvTxTcx1Y+sVDe3/Tzj/j03Lk+2FV5HgpGCFV2RFQ=
-			</data>
-		</dict>
-		<key>PrivateHeaders/Sttarter-Bridging-Header.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			plaNNdXsHYVxKNBrV97cbEL56rQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			I14N8DjI87vQTEB91jj/KyZlp1eCSqrUxbqC2o88tNc=
 			</data>
 		</dict>
 		<key>PrivateHeaders/SubwalletModel.h</key>
