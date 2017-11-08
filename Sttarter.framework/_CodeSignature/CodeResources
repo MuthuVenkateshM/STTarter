@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/i386.swiftmodule</key>
 		<data>
-		Gp7q4y0IeRfuflPLvaG1+xn0wEs=
+		T/OmNe5HZnKeZo4PnDc9iRZQ+Rc=
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Ysi+u/3Mp+UIzY5hLtMIjYKHNWs=
+		3jbYmtkrodH7ADcds4ZnSPvboxE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -418,7 +418,7 @@
 		</data>
 		<key>PrivateHeaders/STTarterImports.h</key>
 		<data>
-		qgEgJr4a5K2k056lX0a7ZvlK5dU=
+		JuYqOq3UamMfOyhQQlAVbMB98BQ=
 		</data>
 		<key>PrivateHeaders/SignUpModel.h</key>
 		<data>
@@ -838,11 +838,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Gp7q4y0IeRfuflPLvaG1+xn0wEs=
+			T/OmNe5HZnKeZo4PnDc9iRZQ+Rc=
 			</data>
 			<key>hash2</key>
 			<data>
-			fRIjO11g+A7SFOGOWM2q7+Oo+o+pciK0kuoW2jIsGao=
+			ENmBlLjU0UvvWMX3iCXpWQEPfprXYt1D/fWhQiHFwkU=
 			</data>
 		</dict>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
@@ -860,11 +860,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ysi+u/3Mp+UIzY5hLtMIjYKHNWs=
+			3jbYmtkrodH7ADcds4ZnSPvboxE=
 			</data>
 			<key>hash2</key>
 			<data>
-			djz13DrLGvjFHUXz+MQ6kJXtgbtZkTZ1npMxY94Up4E=
+			q0vD+3Wa4Rtk4GpsbBtQ/FjJx0hWCPNGNC0L4zysvGM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1729,11 +1729,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qgEgJr4a5K2k056lX0a7ZvlK5dU=
+			JuYqOq3UamMfOyhQQlAVbMB98BQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			0rEyz3WvB22IypL5/ScAd/mUVwwKPg3o8FWdQYz4Jis=
+			4qp905Y+syc5iU/8TAtBYzOXFM+haM/ntmWkpNXlBWU=
 			</data>
 		</dict>
 		<key>PrivateHeaders/SignUpModel.h</key>

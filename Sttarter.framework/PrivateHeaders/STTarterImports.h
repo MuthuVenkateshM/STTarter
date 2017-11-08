@@ -36,7 +36,7 @@ FOUNDATION_EXPORT const unsigned char SttarterVersionString[];
 #import "ChangeRefModel.h"
 #import "TrackUsageModel.h"
 // #import "STTarterManager.h"
-#import "CouponManager.h"
+//#import "CouponManager.h"
 #import "CouponModel.h"
 #import "TrackUsageModel.h"
 #import "UsersModel.h"
