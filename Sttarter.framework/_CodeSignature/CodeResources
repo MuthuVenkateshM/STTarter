@@ -188,6 +188,22 @@
 		<data>
 		phfkWvty1OSMS2WCZnvL3Lxva/k=
 		</data>
+		<key>PrivateHeaders/JSONKeyMapper.h</key>
+		<data>
+		BEcaqd3Btz8KoKqkRWmdixMihB4=
+		</data>
+		<key>PrivateHeaders/JSONModel.h</key>
+		<data>
+		2QiuIPJmvlhK6V7ZdbEGrVXddQM=
+		</data>
+		<key>PrivateHeaders/JSONModelError.h</key>
+		<data>
+		bwqIagompeQQnfliS7pcOweyrFY=
+		</data>
+		<key>PrivateHeaders/JSONValueTransformer.h</key>
+		<data>
+		rm2I4E+8FJmTl9oe6lL0weZpWcA=
+		</data>
 		<key>PrivateHeaders/LoginModel.h</key>
 		<data>
 		pnF24jmRFVfeyYzPcntgHf0kphE=
@@ -231,6 +247,10 @@
 		<key>PrivateHeaders/PermittedModulesModel.h</key>
 		<data>
 		0taqQqNdWx5O5ujvPaq/Lm2t25M=
+		</data>
+		<key>PrivateHeaders/Reachability.h</key>
+		<data>
+		f4E02VNfSS4viOS+9uEnN64dfYg=
 		</data>
 		<key>PrivateHeaders/Referrals.h</key>
 		<data>
@@ -886,6 +906,50 @@
 			Fda5yBV7TxzZpm0Of/gM7ERw/ke0SM8TSsG2/v2LBR4=
 			</data>
 		</dict>
+		<key>PrivateHeaders/JSONKeyMapper.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BEcaqd3Btz8KoKqkRWmdixMihB4=
+			</data>
+			<key>hash2</key>
+			<data>
+			2FjHfA7Od0Bfdi1y/Ai6OM3YOuJZijUFM9pzEPhISqE=
+			</data>
+		</dict>
+		<key>PrivateHeaders/JSONModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2QiuIPJmvlhK6V7ZdbEGrVXddQM=
+			</data>
+			<key>hash2</key>
+			<data>
+			vLccItdJMW7uA4c1oaiZkKZCdS8zJkZovr5xwDJ4gkk=
+			</data>
+		</dict>
+		<key>PrivateHeaders/JSONModelError.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bwqIagompeQQnfliS7pcOweyrFY=
+			</data>
+			<key>hash2</key>
+			<data>
+			JevPeZUCw/ULWbRuvFzAe6ciPhQv/JoED0i7iflx9VM=
+			</data>
+		</dict>
+		<key>PrivateHeaders/JSONValueTransformer.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rm2I4E+8FJmTl9oe6lL0weZpWcA=
+			</data>
+			<key>hash2</key>
+			<data>
+			4NFjyoZoYT4Di+LTaEVCwefNQuhTtQtNA3Li2g3AWsU=
+			</data>
+		</dict>
 		<key>PrivateHeaders/LoginModel.h</key>
 		<dict>
 			<key>hash</key>
@@ -1005,6 +1069,17 @@
 			<key>hash2</key>
 			<data>
 			Hzze8Q2YhlkZVl4E5GO37q3+k0KnczbROQj3QoLUX+E=
+			</data>
+		</dict>
+		<key>PrivateHeaders/Reachability.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f4E02VNfSS4viOS+9uEnN64dfYg=
+			</data>
+			<key>hash2</key>
+			<data>
+			nIHNbMh2yGV7cuGi0GxZCwILNBwABNehMysJS41jH3w=
 			</data>
 		</dict>
 		<key>PrivateHeaders/Referrals.h</key>
