@@ -6,7 +6,7 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		Y/zzZVahlzqsXsKRy9ythZX/tmM=
+		6PbahegYdD+RTbqIU7cgaGNByCE=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/i386.swiftmodule</key>
 		<data>
-		XAtoJRInZWjy7sKvi25WFDNr8mY=
+		eErXDaI834RMP1Szd/BaF7d428Q=
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		ohvi7FA1Dt9SJRL55Fdm2FZUHMc=
+		gdgy8hcDQMxP6fshOXtQcQjY+mE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -456,11 +456,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XAtoJRInZWjy7sKvi25WFDNr8mY=
+			eErXDaI834RMP1Szd/BaF7d428Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			tlvg3zKuRgOoSS4QgA6OfSDmquTyXqHAZpqo4HhEdDI=
+			9QVSl6FJBzg8nREYv2Ict/9x5fIiU87uTinmdOo2Q48=
 			</data>
 		</dict>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
@@ -478,11 +478,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ohvi7FA1Dt9SJRL55Fdm2FZUHMc=
+			gdgy8hcDQMxP6fshOXtQcQjY+mE=
 			</data>
 			<key>hash2</key>
 			<data>
-			nz1bYr92va58t+Ajifr3OcvyJSBlQSLoHMX/BpTZ0G4=
+			2/13e3bImm14Q9w0txTAk+N5LjqZVQA7vptIievu/g4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
