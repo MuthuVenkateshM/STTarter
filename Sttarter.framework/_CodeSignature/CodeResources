@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		Y/zzZVahlzqsXsKRy9ythZX/tmM=
+		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
 		lGYh5wdaf40xXlzlDGPSSHqFaVE=
@@ -96,10 +100,6 @@
 		<data>
 		LnxRzCANYIfPXBuLVTM3Je+lsqU=
 		</data>
-		<key>Headers/Sttarter-Bridging-Header.h</key>
-		<data>
-		e1uSiV9LBlWnr0B3/CVHPrQ3gDY=
-		</data>
 		<key>Headers/Sttarter-Swift.h</key>
 		<data>
 		7YT+dGTbqA9ZfWH4+M7+Kspq+vU=
@@ -122,7 +122,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/i386.swiftmodule</key>
 		<data>
-		cqCfN87CBUEhwBQ9qQFuEWcfPYg=
+		XAtoJRInZWjy7sKvi25WFDNr8mY=
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		n2KwiCf5mzgTYXG8Mna0DX1BQ8I=
+		ohvi7FA1Dt9SJRL55Fdm2FZUHMc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -408,17 +408,6 @@
 			Y5dLR86k7UFKjNbu/hNXNXAnXQNk+sVAhE09/ul284c=
 			</data>
 		</dict>
-		<key>Headers/Sttarter-Bridging-Header.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			e1uSiV9LBlWnr0B3/CVHPrQ3gDY=
-			</data>
-			<key>hash2</key>
-			<data>
-			AEVDx/KUqQRBZMK7JihCk3fIhCgoWJlzCflU4r8cRoM=
-			</data>
-		</dict>
 		<key>Headers/Sttarter-Swift.h</key>
 		<dict>
 			<key>hash</key>
@@ -467,11 +456,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cqCfN87CBUEhwBQ9qQFuEWcfPYg=
+			XAtoJRInZWjy7sKvi25WFDNr8mY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vzmqhxoA764qej7SuWXuOCpX6VEOqpFY5rpDrsnbwZM=
+			tlvg3zKuRgOoSS4QgA6OfSDmquTyXqHAZpqo4HhEdDI=
 			</data>
 		</dict>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
@@ -489,11 +478,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n2KwiCf5mzgTYXG8Mna0DX1BQ8I=
+			ohvi7FA1Dt9SJRL55Fdm2FZUHMc=
 			</data>
 			<key>hash2</key>
 			<data>
-			C+kA1NDjJ5W19HGihxH71ehAsTJsh4lYGAv0Ib+zi4Q=
+			nz1bYr92va58t+Ajifr3OcvyJSBlQSLoHMX/BpTZ0G4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
