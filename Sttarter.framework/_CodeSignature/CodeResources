@@ -64,10 +64,6 @@
 		<data>
 		X1+MzQzu8C1r7cUKdRbkdbI8P/8=
 		</data>
-		<key>Headers/STTarterImports.h</key>
-		<data>
-		PyzwcId4r31eZpD2HwA0iNq9L+w=
-		</data>
 		<key>Headers/STTarterManager.h</key>
 		<data>
 		G5hTAjmelkexTRoudwv/0BVbwwU=
@@ -243,6 +239,10 @@
 		<key>PrivateHeaders/ReferrelSignupModel.h</key>
 		<data>
 		c2VnDcuFHTDs5UtS0URu3uioG9k=
+		</data>
+		<key>PrivateHeaders/STTarterImports.h</key>
+		<data>
+		PyzwcId4r31eZpD2HwA0iNq9L+w=
 		</data>
 		<key>PrivateHeaders/SignUpModel.h</key>
 		<data>
@@ -554,17 +554,6 @@
 			<key>hash2</key>
 			<data>
 			V2dSRUHW0/XgmyMvgA+3HdPzdsrIIfntU4SoQ9Zrqfc=
-			</data>
-		</dict>
-		<key>Headers/STTarterImports.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PyzwcId4r31eZpD2HwA0iNq9L+w=
-			</data>
-			<key>hash2</key>
-			<data>
-			+TbkZVH7fWc59dEWSV16bJigB8eBGymQrvTpA8AbwTs=
 			</data>
 		</dict>
 		<key>Headers/STTarterManager.h</key>
@@ -1038,6 +1027,17 @@
 			<key>hash2</key>
 			<data>
 			91qKWo+pTmtsZl//ZxRbJQxM0CcGAdv9Fs69h7TQHNU=
+			</data>
+		</dict>
+		<key>PrivateHeaders/STTarterImports.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PyzwcId4r31eZpD2HwA0iNq9L+w=
+			</data>
+			<key>hash2</key>
+			<data>
+			+TbkZVH7fWc59dEWSV16bJigB8eBGymQrvTpA8AbwTs=
 			</data>
 		</dict>
 		<key>PrivateHeaders/SignUpModel.h</key>
