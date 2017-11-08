@@ -107,6 +107,7 @@ Pod::Spec.new do |s|
 
   s.source_files = "Sttarter.framework/Headers/*.h", "Sttarter.framework/PrivateHeaders/.h"
   s.public_header_files = "Sttarter.framework/Headers/*.h"
+  s.private_header_files = "Sttarter.framework/PrivateHeaders/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
