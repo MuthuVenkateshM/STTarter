@@ -116,6 +116,10 @@
 		<data>
 		ul5lqYeFP9HKMS7CL8Yix1ZKHuI=
 		</data>
+		<key>PrivateHeaders/AFHTTPSessionManager.h</key>
+		<data>
+		g+9gzOILC6OGL8PZ+Palgmc6TBk=
+		</data>
 		<key>PrivateHeaders/AFNetworkActivityIndicatorManager.h</key>
 		<data>
 		Kp3M9jYtk5uD0elFHG25kuFYfhA=
@@ -746,6 +750,17 @@
 			<key>hash2</key>
 			<data>
 			BZoGx75PW/GIQMm6FakMuk6V3niH5rqcHBrHz3SYdwo=
+			</data>
+		</dict>
+		<key>PrivateHeaders/AFHTTPSessionManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g+9gzOILC6OGL8PZ+Palgmc6TBk=
+			</data>
+			<key>hash2</key>
+			<data>
+			03bUT1JAnoLKxOj1g+RTGmfxlbqtQNzHiEftKZHUa10=
 			</data>
 		</dict>
 		<key>PrivateHeaders/AFNetworkActivityIndicatorManager.h</key>
