@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/i386.swiftmodule</key>
 		<data>
-		vLeZScwruo/Z1/+x7tlZPZmNB/g=
+		Gp7q4y0IeRfuflPLvaG1+xn0wEs=
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		ftlA5DQTVbk+egQfZc9Z1irWiyo=
+		Ysi+u/3Mp+UIzY5hLtMIjYKHNWs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -208,6 +208,10 @@
 		<data>
 		EBB2IYiMkyiY+bI78HzzVDZxitY=
 		</data>
+		<key>PrivateHeaders/ForegroundReconnection.h</key>
+		<data>
+		UWwdxWBYwv3WD81c026ygyVUQX0=
+		</data>
 		<key>PrivateHeaders/GetMessagesModel.h</key>
 		<data>
 		Igga5Q00rLGppDCzzrDwdV1Nmq4=
@@ -232,17 +236,37 @@
 		<data>
 		phfkWvty1OSMS2WCZnvL3Lxva/k=
 		</data>
+		<key>PrivateHeaders/JSONAPI.h</key>
+		<data>
+		E7HDy4zNZhR9cINze82H2K2rSF4=
+		</data>
+		<key>PrivateHeaders/JSONHTTPClient.h</key>
+		<data>
+		l3XgPNQ8VuN2jBIlFHObLs/7lb0=
+		</data>
 		<key>PrivateHeaders/JSONKeyMapper.h</key>
 		<data>
 		BEcaqd3Btz8KoKqkRWmdixMihB4=
+		</data>
+		<key>PrivateHeaders/JSONModel+networking.h</key>
+		<data>
+		iM0BeIU8/tbedtebdf3aB7+EV/o=
 		</data>
 		<key>PrivateHeaders/JSONModel.h</key>
 		<data>
 		2QiuIPJmvlhK6V7ZdbEGrVXddQM=
 		</data>
+		<key>PrivateHeaders/JSONModelClassProperty.h</key>
+		<data>
+		I35cnF1eud+hGfZOsMORH6vG/j0=
+		</data>
 		<key>PrivateHeaders/JSONModelError.h</key>
 		<data>
 		bwqIagompeQQnfliS7pcOweyrFY=
+		</data>
+		<key>PrivateHeaders/JSONModelLib.h</key>
+		<data>
+		BO5SM6Dm5JHAJkEtXOcTNwKKGvM=
 		</data>
 		<key>PrivateHeaders/JSONValueTransformer.h</key>
 		<data>
@@ -251,6 +275,90 @@
 		<key>PrivateHeaders/LoginModel.h</key>
 		<data>
 		pnF24jmRFVfeyYzPcntgHf0kphE=
+		</data>
+		<key>PrivateHeaders/MQTTCFSocketDecoder.h</key>
+		<data>
+		UJRtRDRlqhuigKuaf5cATvLdbSc=
+		</data>
+		<key>PrivateHeaders/MQTTCFSocketEncoder.h</key>
+		<data>
+		4V7BjqF+ZAMFuvYLxSsVOXXfxr4=
+		</data>
+		<key>PrivateHeaders/MQTTCFSocketTransport.h</key>
+		<data>
+		MTIanC5MYGGv4nwmSdZR8o9VlS0=
+		</data>
+		<key>PrivateHeaders/MQTTClient.h</key>
+		<data>
+		qPH0D520j01oJVf1njStEfU7bxw=
+		</data>
+		<key>PrivateHeaders/MQTTCoreDataPersistence.h</key>
+		<data>
+		F9epTTFvA34pJC97PuIGkvpD90I=
+		</data>
+		<key>PrivateHeaders/MQTTDecoder.h</key>
+		<data>
+		2do9HjG4WVwFrE9Dt/LC7dcjhf0=
+		</data>
+		<key>PrivateHeaders/MQTTInMemoryPersistence.h</key>
+		<data>
+		sSs28RyAMIejUQ1VEEpUdDT0bPY=
+		</data>
+		<key>PrivateHeaders/MQTTLog.h</key>
+		<data>
+		iPtCQ0th9lIkrZvtOtTBg6GqJZI=
+		</data>
+		<key>PrivateHeaders/MQTTMessage.h</key>
+		<data>
+		qbkkwPT+ubmFZmO/2ci6ZLfTzKE=
+		</data>
+		<key>PrivateHeaders/MQTTPersistence.h</key>
+		<data>
+		cVcY+nLlWByfel9xs8PL8DZUTQY=
+		</data>
+		<key>PrivateHeaders/MQTTProperties.h</key>
+		<data>
+		CV/+v7cEibacNialFDMBDxcadMk=
+		</data>
+		<key>PrivateHeaders/MQTTSSLSecurityPolicy.h</key>
+		<data>
+		aRSZmCauooR67xp5Sgxlca+rl3w=
+		</data>
+		<key>PrivateHeaders/MQTTSSLSecurityPolicyDecoder.h</key>
+		<data>
+		Bo083cnm/s5kxvvIF274S1Epzr4=
+		</data>
+		<key>PrivateHeaders/MQTTSSLSecurityPolicyEncoder.h</key>
+		<data>
+		soH0Cbh2Uufm9rZmZ0/8CcTGtpY=
+		</data>
+		<key>PrivateHeaders/MQTTSSLSecurityPolicyTransport.h</key>
+		<data>
+		4JQ4Pd2yxm1D3QKDVcH/NSmGdQI=
+		</data>
+		<key>PrivateHeaders/MQTTSession.h</key>
+		<data>
+		b7euJlTxKgpDwvOZLgqHC6smlss=
+		</data>
+		<key>PrivateHeaders/MQTTSessionLegacy.h</key>
+		<data>
+		Hfoo1FYnWaXnPGr7IvHnqOBVlZI=
+		</data>
+		<key>PrivateHeaders/MQTTSessionManager.h</key>
+		<data>
+		aVihqCbzbQtqmqNFj/uoSrWqOSc=
+		</data>
+		<key>PrivateHeaders/MQTTSessionSynchron.h</key>
+		<data>
+		RS/N43DzNoSpsKl3oPHPsg4S9ws=
+		</data>
+		<key>PrivateHeaders/MQTTStrict.h</key>
+		<data>
+		K/E/l6ZqetAf6GXCDwt+PpG/+pE=
+		</data>
+		<key>PrivateHeaders/MQTTTransport.h</key>
+		<data>
+		hV9gHQR8zK1PcWDqU6i3IteQiHY=
 		</data>
 		<key>PrivateHeaders/MQTT_Queue+CoreDataClass.h</key>
 		<data>
@@ -296,6 +404,10 @@
 		<data>
 		f4E02VNfSS4viOS+9uEnN64dfYg=
 		</data>
+		<key>PrivateHeaders/ReconnectTimer.h</key>
+		<data>
+		ED2z7q8wLynuXadOY2O78JfmhqQ=
+		</data>
 		<key>PrivateHeaders/Referrals.h</key>
 		<data>
 		6+hwRCSLybdNz4bQ6WN16ltAAbQ=
@@ -306,7 +418,7 @@
 		</data>
 		<key>PrivateHeaders/STTarterImports.h</key>
 		<data>
-		PyzwcId4r31eZpD2HwA0iNq9L+w=
+		qgEgJr4a5K2k056lX0a7ZvlK5dU=
 		</data>
 		<key>PrivateHeaders/SignUpModel.h</key>
 		<data>
@@ -387,6 +499,42 @@
 		<key>PrivateHeaders/TransferFundModel.h</key>
 		<data>
 		3Y3C1leFSADMKdmAaUMmzMlQEq4=
+		</data>
+		<key>PrivateHeaders/UIActivityIndicatorView+AFNetworking.h</key>
+		<data>
+		QdE/GHPsdRjBqEvgX/RABI13PFU=
+		</data>
+		<key>PrivateHeaders/UIAlertView+AFNetworking.h</key>
+		<data>
+		qTSk2BaWL8zjGUsGfPmdGuQunb8=
+		</data>
+		<key>PrivateHeaders/UIButton+AFNetworking.h</key>
+		<data>
+		VAGhGPP0XJKuzJkeXe5FrXnOCLQ=
+		</data>
+		<key>PrivateHeaders/UIImage+AFNetworking.h</key>
+		<data>
+		epkuVtgWKhVZJqrab+MlWQdii6Q=
+		</data>
+		<key>PrivateHeaders/UIImageView+AFNetworking.h</key>
+		<data>
+		pXuchKtyqbF2y87mGuJ31wyViF8=
+		</data>
+		<key>PrivateHeaders/UIKit+AFNetworking.h</key>
+		<data>
+		dBjR8rK5cdBUzjTU8FpIwPfHdBo=
+		</data>
+		<key>PrivateHeaders/UIProgressView+AFNetworking.h</key>
+		<data>
+		jv74waFWMtm08AAU1sU3FqWRF5Q=
+		</data>
+		<key>PrivateHeaders/UIRefreshControl+AFNetworking.h</key>
+		<data>
+		QDqr0tIIJS4q2K3AVtZnwGCGzlg=
+		</data>
+		<key>PrivateHeaders/UIWebView+AFNetworking.h</key>
+		<data>
+		11OuRDnQDugkbqHJUdkRdWx26Us=
 		</data>
 		<key>PrivateHeaders/UsersModel.h</key>
 		<data>
@@ -690,11 +838,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vLeZScwruo/Z1/+x7tlZPZmNB/g=
+			Gp7q4y0IeRfuflPLvaG1+xn0wEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			YJxIPEYIpYDl5CkHSiK+T9AEWXH6Y/599VW/Lq2MLKE=
+			fRIjO11g+A7SFOGOWM2q7+Oo+o+pciK0kuoW2jIsGao=
 			</data>
 		</dict>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
@@ -712,11 +860,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ftlA5DQTVbk+egQfZc9Z1irWiyo=
+			Ysi+u/3Mp+UIzY5hLtMIjYKHNWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vje4ZS2ZFIeykUBWDQLJEPtluAfOJGWJG9TCFdvh0OE=
+			djz13DrLGvjFHUXz+MQ6kJXtgbtZkTZ1npMxY94Up4E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1005,6 +1153,17 @@
 			OeB14qb9D2WCaBY06f71lmKLWT1KvutpAvdUHduW+CE=
 			</data>
 		</dict>
+		<key>PrivateHeaders/ForegroundReconnection.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UWwdxWBYwv3WD81c026ygyVUQX0=
+			</data>
+			<key>hash2</key>
+			<data>
+			exL6/PJq6GGozrLE6Foa506TzXRZerBpkP5w6brmzUs=
+			</data>
+		</dict>
 		<key>PrivateHeaders/GetMessagesModel.h</key>
 		<dict>
 			<key>hash</key>
@@ -1071,6 +1230,28 @@
 			Fda5yBV7TxzZpm0Of/gM7ERw/ke0SM8TSsG2/v2LBR4=
 			</data>
 		</dict>
+		<key>PrivateHeaders/JSONAPI.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E7HDy4zNZhR9cINze82H2K2rSF4=
+			</data>
+			<key>hash2</key>
+			<data>
+			/H5eCYC+klB3fPtZsQWiojlAP23XuwWrWSX59bzzMfM=
+			</data>
+		</dict>
+		<key>PrivateHeaders/JSONHTTPClient.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l3XgPNQ8VuN2jBIlFHObLs/7lb0=
+			</data>
+			<key>hash2</key>
+			<data>
+			8VqFXq4DY+5DblmkkmXGjb6cyNxZ229p3Von2SyPQP4=
+			</data>
+		</dict>
 		<key>PrivateHeaders/JSONKeyMapper.h</key>
 		<dict>
 			<key>hash</key>
@@ -1080,6 +1261,17 @@
 			<key>hash2</key>
 			<data>
 			2FjHfA7Od0Bfdi1y/Ai6OM3YOuJZijUFM9pzEPhISqE=
+			</data>
+		</dict>
+		<key>PrivateHeaders/JSONModel+networking.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iM0BeIU8/tbedtebdf3aB7+EV/o=
+			</data>
+			<key>hash2</key>
+			<data>
+			sXbLPN/wOM32JB+wFL68G5W5p8Bo4cv1jSEGq60L3v8=
 			</data>
 		</dict>
 		<key>PrivateHeaders/JSONModel.h</key>
@@ -1093,6 +1285,17 @@
 			vLccItdJMW7uA4c1oaiZkKZCdS8zJkZovr5xwDJ4gkk=
 			</data>
 		</dict>
+		<key>PrivateHeaders/JSONModelClassProperty.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			I35cnF1eud+hGfZOsMORH6vG/j0=
+			</data>
+			<key>hash2</key>
+			<data>
+			uYxtb2OcFHoDMXT8nNX2fNDn2fsA+V/AL8aq7+Qpt6o=
+			</data>
+		</dict>
 		<key>PrivateHeaders/JSONModelError.h</key>
 		<dict>
 			<key>hash</key>
@@ -1102,6 +1305,17 @@
 			<key>hash2</key>
 			<data>
 			JevPeZUCw/ULWbRuvFzAe6ciPhQv/JoED0i7iflx9VM=
+			</data>
+		</dict>
+		<key>PrivateHeaders/JSONModelLib.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BO5SM6Dm5JHAJkEtXOcTNwKKGvM=
+			</data>
+			<key>hash2</key>
+			<data>
+			/6DN+SaZDLrQ+mxf+FJJR/Mpz2n+0Ux9p/KOq1kMQWw=
 			</data>
 		</dict>
 		<key>PrivateHeaders/JSONValueTransformer.h</key>
@@ -1124,6 +1338,237 @@
 			<key>hash2</key>
 			<data>
 			6AzTvKr5TUVQ9I8S4b9FuNycLrnLCPxCNXMb07G30rw=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTCFSocketDecoder.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UJRtRDRlqhuigKuaf5cATvLdbSc=
+			</data>
+			<key>hash2</key>
+			<data>
+			fl54ZB/NXuruSnuAUQESVVxcpD3YEpuKLNVg98ExdpY=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTCFSocketEncoder.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4V7BjqF+ZAMFuvYLxSsVOXXfxr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			501YeivAfzQT6tbwgm0Ym30BQrL529NMR0jD2oyGcKA=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTCFSocketTransport.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MTIanC5MYGGv4nwmSdZR8o9VlS0=
+			</data>
+			<key>hash2</key>
+			<data>
+			jlefxwEdgOUcNr1RwCGJ0S/4tBXDawSvPSn4InZj7Bg=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTClient.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qPH0D520j01oJVf1njStEfU7bxw=
+			</data>
+			<key>hash2</key>
+			<data>
+			718KGTXJ4Udr5gNXW+YENNrrcW4A329k0UjAoyB562Q=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTCoreDataPersistence.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			F9epTTFvA34pJC97PuIGkvpD90I=
+			</data>
+			<key>hash2</key>
+			<data>
+			E8jnljdHw9zGTB5O1S4Dooxaq2t2nnVmgZfHw2P3ri4=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTDecoder.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2do9HjG4WVwFrE9Dt/LC7dcjhf0=
+			</data>
+			<key>hash2</key>
+			<data>
+			vuH73D144gxxBlB8DB4Nz0I+131ZXNyCKJq//lbkIkg=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTInMemoryPersistence.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sSs28RyAMIejUQ1VEEpUdDT0bPY=
+			</data>
+			<key>hash2</key>
+			<data>
+			JqcyPp9DJ2j4tlHmSsKT6kRvJ5FG/BfYmvUMUO2Yl64=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTLog.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iPtCQ0th9lIkrZvtOtTBg6GqJZI=
+			</data>
+			<key>hash2</key>
+			<data>
+			+Q/iCSqplSdYwL4NyOH6SFdXbO31i8QSuvcXAcqkPCQ=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTMessage.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qbkkwPT+ubmFZmO/2ci6ZLfTzKE=
+			</data>
+			<key>hash2</key>
+			<data>
+			0mhV2Jjor6gV6m/vu2GbJYxOzGcSthEjU+eIijbs418=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTPersistence.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cVcY+nLlWByfel9xs8PL8DZUTQY=
+			</data>
+			<key>hash2</key>
+			<data>
+			/2lPmA6b79kPUNC5/O2N1kdRAo2CooY4QgcrFEb6VUQ=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTProperties.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CV/+v7cEibacNialFDMBDxcadMk=
+			</data>
+			<key>hash2</key>
+			<data>
+			O6shzWjqr8ikqR9pZ4zF9DQlbcRAJZ27+y2WXm6+zlM=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTSSLSecurityPolicy.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aRSZmCauooR67xp5Sgxlca+rl3w=
+			</data>
+			<key>hash2</key>
+			<data>
+			fX++7WsytcmTjyIqbOEDSHdUe+mtKLBccb/KNMmsVF4=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTSSLSecurityPolicyDecoder.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Bo083cnm/s5kxvvIF274S1Epzr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			zOCGmGY+V77xP3o52BiUPkWWwC8HLXszMLcYpwkSuqg=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTSSLSecurityPolicyEncoder.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			soH0Cbh2Uufm9rZmZ0/8CcTGtpY=
+			</data>
+			<key>hash2</key>
+			<data>
+			pkH9RvyShDFbQzwxBm3wTnl7JohpKKAhqoAYsGspTfA=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTSSLSecurityPolicyTransport.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4JQ4Pd2yxm1D3QKDVcH/NSmGdQI=
+			</data>
+			<key>hash2</key>
+			<data>
+			dmjWxFs/uUOsVPP4qW9SXw0wRKGryf+7woxCKNG4EIA=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTSession.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b7euJlTxKgpDwvOZLgqHC6smlss=
+			</data>
+			<key>hash2</key>
+			<data>
+			mICSZd2DrTF6pGeEUsf9HC1l7zfDvp5mNLuiNQ45MZI=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTSessionLegacy.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Hfoo1FYnWaXnPGr7IvHnqOBVlZI=
+			</data>
+			<key>hash2</key>
+			<data>
+			lRyhYTJSqt1lZr29ZrPdZ5eif2QPh/Rx8sqiyOiCx9g=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTSessionManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aVihqCbzbQtqmqNFj/uoSrWqOSc=
+			</data>
+			<key>hash2</key>
+			<data>
+			//i+efSQzcOi3/qNcr1+UFt96qiz8uBdqIKjMSgKGkQ=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTSessionSynchron.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RS/N43DzNoSpsKl3oPHPsg4S9ws=
+			</data>
+			<key>hash2</key>
+			<data>
+			S/JMPOPNyzwXUh/ACrTETzPLnvjcynFMoML4OeGxVAo=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTStrict.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			K/E/l6ZqetAf6GXCDwt+PpG/+pE=
+			</data>
+			<key>hash2</key>
+			<data>
+			jKvCDjSdKMym8qQ2V9d7SA6hJkx3uKjD2ZjC1/yXa/I=
+			</data>
+		</dict>
+		<key>PrivateHeaders/MQTTTransport.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hV9gHQR8zK1PcWDqU6i3IteQiHY=
+			</data>
+			<key>hash2</key>
+			<data>
+			FoVwYtIkb3G3wENF7+2eR+Ezkr1uZiwxiEKqZKhsZUA=
 			</data>
 		</dict>
 		<key>PrivateHeaders/MQTT_Queue+CoreDataClass.h</key>
@@ -1247,6 +1692,17 @@
 			nIHNbMh2yGV7cuGi0GxZCwILNBwABNehMysJS41jH3w=
 			</data>
 		</dict>
+		<key>PrivateHeaders/ReconnectTimer.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ED2z7q8wLynuXadOY2O78JfmhqQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jios9n0267PDJJmztNWmJjWqT1v+tFnW4Bn/J8gIgWk=
+			</data>
+		</dict>
 		<key>PrivateHeaders/Referrals.h</key>
 		<dict>
 			<key>hash</key>
@@ -1273,11 +1729,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PyzwcId4r31eZpD2HwA0iNq9L+w=
+			qgEgJr4a5K2k056lX0a7ZvlK5dU=
 			</data>
 			<key>hash2</key>
 			<data>
-			+TbkZVH7fWc59dEWSV16bJigB8eBGymQrvTpA8AbwTs=
+			0rEyz3WvB22IypL5/ScAd/mUVwwKPg3o8FWdQYz4Jis=
 			</data>
 		</dict>
 		<key>PrivateHeaders/SignUpModel.h</key>
@@ -1498,6 +1954,105 @@
 			<key>hash2</key>
 			<data>
 			XPR8Ss8ODM0U/sHAP2zgh7RsFKnIF0NwK56B2wjenok=
+			</data>
+		</dict>
+		<key>PrivateHeaders/UIActivityIndicatorView+AFNetworking.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QdE/GHPsdRjBqEvgX/RABI13PFU=
+			</data>
+			<key>hash2</key>
+			<data>
+			IdARqjsfaT6SsJy+N+JZfVEZRKQAU688uayUqEPt6yE=
+			</data>
+		</dict>
+		<key>PrivateHeaders/UIAlertView+AFNetworking.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qTSk2BaWL8zjGUsGfPmdGuQunb8=
+			</data>
+			<key>hash2</key>
+			<data>
+			BxEWgUuDMiJDBpCIedIdy7JtuiAUX2ZEZreOOy1T878=
+			</data>
+		</dict>
+		<key>PrivateHeaders/UIButton+AFNetworking.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VAGhGPP0XJKuzJkeXe5FrXnOCLQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			yaLMGIIVdIWL3tZgyjHkCrz+7om8WihPa+t+1ifxrrE=
+			</data>
+		</dict>
+		<key>PrivateHeaders/UIImage+AFNetworking.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			epkuVtgWKhVZJqrab+MlWQdii6Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			xnV3ra4xLyazTJx1sMJkBg8dKGRQcTwEfz3R/F0v/c0=
+			</data>
+		</dict>
+		<key>PrivateHeaders/UIImageView+AFNetworking.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pXuchKtyqbF2y87mGuJ31wyViF8=
+			</data>
+			<key>hash2</key>
+			<data>
+			VSX/hEB0iefLkqbgxItjze2acmjz8lxQX9klJlUqky4=
+			</data>
+		</dict>
+		<key>PrivateHeaders/UIKit+AFNetworking.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dBjR8rK5cdBUzjTU8FpIwPfHdBo=
+			</data>
+			<key>hash2</key>
+			<data>
+			8aadoRrxg9MDUbAaVCk/zllLyt+uK/XEVJ82M16Mb90=
+			</data>
+		</dict>
+		<key>PrivateHeaders/UIProgressView+AFNetworking.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jv74waFWMtm08AAU1sU3FqWRF5Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			Lai0cCJnary/CRSQT9dDrb3PwnYy9m8510CRE3ZNgeM=
+			</data>
+		</dict>
+		<key>PrivateHeaders/UIRefreshControl+AFNetworking.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QDqr0tIIJS4q2K3AVtZnwGCGzlg=
+			</data>
+			<key>hash2</key>
+			<data>
+			hEFy6iXZ5DtIebXoDYG9CZN9BB15q7FZ7Ow063IGRIQ=
+			</data>
+		</dict>
+		<key>PrivateHeaders/UIWebView+AFNetworking.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			11OuRDnQDugkbqHJUdkRdWx26Us=
+			</data>
+			<key>hash2</key>
+			<data>
+			WQCCeCD2S+yb3JNqHlwMGWr0H3TrlxVDAZeVmcLIFag=
 			</data>
 		</dict>
 		<key>PrivateHeaders/UsersModel.h</key>
