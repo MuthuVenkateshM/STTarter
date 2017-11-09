@@ -105,8 +105,13 @@ Pod::Spec.new do |s|
   # s.source_files  = "Classes", "Classes/**/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
-  # s.source_files = "Sttarter.framework/Headers/*.h", "Sttarter.framework/PrivateHeaders/.h"
-  # s.public_header_files = "Sttarter.framework/Headers/*.h"
+  s.source_files = "Sttarter.framework/Headers/*.h"
+  s.public_header_files = "Sttarter.framework/Headers/STTarterReferrals.h",
+                          "Sttarter.framework/Headers/STTarterManager.h",
+                          "Sttarter.framework/Headers/STTarterContentSystem.h",
+                          "Sttarter.framework/Headers/CouponManager.h",
+                          "Sttarter.framework/Headers/STTarterCommunicator.h"
+
   # s.private_header_files = "Sttarter.framework/PrivateHeaders/*.h"
 
 
