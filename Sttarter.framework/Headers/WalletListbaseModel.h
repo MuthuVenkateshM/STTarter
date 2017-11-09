@@ -6,7 +6,7 @@
 //  Copyright © 2017 Spurtree. All rights reserved.
 //
 
-#import <Sttarter/SttarterImports.h>
+#import "STTarter.h"
 
 @interface WalletListbaseModel : JSONModel
 

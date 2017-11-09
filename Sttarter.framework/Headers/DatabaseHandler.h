@@ -12,7 +12,7 @@
 //#import "Messages+CoreDataClass.h"
 #import "MQTT_Queue+CoreDataClass.h"
 #import "TopicMessageStatusEntity+CoreDataClass.h"
-#import "STTarterImports.h"
+#import "STTarter.h"
 #import "Utils.h"
 
 @class MessagesModel;

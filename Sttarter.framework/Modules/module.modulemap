@@ -1,4 +1,11 @@
 framework module Sttarter {
+  umbrella header "Sttarter.h"
+
+  export *
+  module * { export * }
+}
+
+module Sttarter.Swift {
     header "Sttarter-Swift.h"
     requires objc
 }
