@@ -76,6 +76,10 @@
 		<data>
 		LnxRzCANYIfPXBuLVTM3Je+lsqU=
 		</data>
+		<key>Headers/Sttarter-Bridging-Header.h</key>
+		<data>
+		fJKa7pIDAdotdy1BOGkfdiQhzdo=
+		</data>
 		<key>Headers/Sttarter-Swift.h</key>
 		<data>
 		7YT+dGTbqA9ZfWH4+M7+Kspq+vU=
@@ -94,7 +98,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/i386.swiftmodule</key>
 		<data>
-		T/OmNe5HZnKeZo4PnDc9iRZQ+Rc=
+		Yus+uzL1DjizB4QEh+S7QAute0g=
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -102,7 +106,7 @@
 		</data>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		3jbYmtkrodH7ADcds4ZnSPvboxE=
+		bCwxdOyErmgk9WQqrsPValep9ps=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -801,6 +805,17 @@
 			Y5dLR86k7UFKjNbu/hNXNXAnXQNk+sVAhE09/ul284c=
 			</data>
 		</dict>
+		<key>Headers/Sttarter-Bridging-Header.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fJKa7pIDAdotdy1BOGkfdiQhzdo=
+			</data>
+			<key>hash2</key>
+			<data>
+			rS80Hw86TQUCchrOk0h+TBQVn+rX6ZWaLqdJRlyAVLs=
+			</data>
+		</dict>
 		<key>Headers/Sttarter-Swift.h</key>
 		<dict>
 			<key>hash</key>
@@ -838,11 +853,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T/OmNe5HZnKeZo4PnDc9iRZQ+Rc=
+			Yus+uzL1DjizB4QEh+S7QAute0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			ENmBlLjU0UvvWMX3iCXpWQEPfprXYt1D/fWhQiHFwkU=
+			qe8r/O3blgSWHdVJlK2L2SMkljnHecut+ZlFkPb5Xrk=
 			</data>
 		</dict>
 		<key>Modules/Sttarter.swiftmodule/x86_64.swiftdoc</key>
@@ -860,11 +875,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3jbYmtkrodH7ADcds4ZnSPvboxE=
+			bCwxdOyErmgk9WQqrsPValep9ps=
 			</data>
 			<key>hash2</key>
 			<data>
-			q0vD+3Wa4Rtk4GpsbBtQ/FjJx0hWCPNGNC0L4zysvGM=
+			X5rGy3dvpQCwqZCg3lHEKoZ8P3XRNif4Bas1SmTYd8g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
