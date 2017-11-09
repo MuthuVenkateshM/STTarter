@@ -9,8 +9,8 @@
 #ifndef Sttarter_Bridging_Header_h
 #define Sttarter_Bridging_Header_h
 
-#import <Sttarter/DatabaseHandler.h>
-#import <Sttarter/DownloadManager.h>
+#import "DatabaseHandler.h"
+#import "DownloadManager.h"
 #import "DownloadManagerAdditions.h"
 #import "DownloadManagerConstants.h"
 #import "GetOtpModel.h"
@@ -37,6 +37,7 @@
 #import "STTarterContentSystem.h"
 #import "STTarterReferrals.h"
 #import "Topics+CoreDataClass.h"
+#import "STTaterCommunicator.h"
 #import "CreateWalletModel.h"
 #import "CreateWalletBaseModel.h"
 #import "WalletManager.h"
