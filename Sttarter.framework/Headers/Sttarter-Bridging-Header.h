@@ -9,8 +9,8 @@
 #ifndef Sttarter_Bridging_Header_h
 #define Sttarter_Bridging_Header_h
 
-#import "DatabaseHandler.h"
-#import "DownloadManager.h"
+#import <Sttarter/DatabaseHandler.h>
+#import <Sttarter/DownloadManager.h>
 #import "DownloadManagerAdditions.h"
 #import "DownloadManagerConstants.h"
 #import "GetOtpModel.h"
