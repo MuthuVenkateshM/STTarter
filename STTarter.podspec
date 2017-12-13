@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => 'https://github.com/MuthuVenkateshM/STTarter.git', :branch => 'master' }
+  s.source       = { :git => 'https://github.com/MuthuVenkateshM/STTarter.git', :branch => 'xcode8.3.3' }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
