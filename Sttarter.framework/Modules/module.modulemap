@@ -7,5 +7,4 @@ framework module Sttarter {
 
 module Sttarter.Swift {
     header "Sttarter-Swift.h"
-    requires objc
 }
